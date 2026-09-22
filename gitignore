@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime-generated files
+temp.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uncomment the line below if your Dataset folder is too large to push to GitHub
+# Dataset/
